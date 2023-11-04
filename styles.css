@@ -1,8 +1,11 @@
+*{
+    background-color: black;
+}
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f8f9fa;
+    background-color: black;
 }
 
 .container {
@@ -10,7 +13,7 @@ body {
     margin: 0 auto;
     padding: 30px;
     text-align: center;
-    background-color: #ffffff;
+    background-color: black;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
     margin-top: 50px;
